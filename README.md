@@ -8,5 +8,5 @@
 - 💻 My programming languages :`.c`, `.cs`, `.cpp`
 - ⚔️ Technogies and tools : `.net`, `git`, `postgre sql`, 
 - 🌱 Learning all about **Najot Ta'lim**
-- 📫 Connect with me: [telegram]([https://t.me/Samandarbek_Yigitaliyev])
+- 📫 Connect with me: [telegram](https://t.me/Samandarbek_Yigitaliyev)
 - ⚡️ Fun fact: I'm a huge fan of Football
