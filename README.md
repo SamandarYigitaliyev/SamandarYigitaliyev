@@ -8,4 +8,4 @@
 - 💻 My programming languages :`.c`, `.cs`, `.cpp`
 - ⚔️ Technogies and tools : `.net`, `git`, `postgre sql`, 
 - 🌱 Learning all about **Najot Ta'lim**
-- ⚡️ Fun fact: I'm a huge fan of Chess
+- ⚡️ Fun fact: I'm a huge fan of Football
