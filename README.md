@@ -1,6 +1,6 @@
+<h1 align="center">.Net Developer</h1>
 ## Hi there, I am Samandarbek Yigitaliyev  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-## I'm a Software Engineer.
 [![Telegram Badge](https://img.shields.io/badge/@Samandarbek_Yigitaliyev-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Samandarbek_Yigitaliyev)](https://t.me/Samandarbek_Yigitaliyev)
 
 <h2 align="left">👨🏻‍💻 Technologies</h2>
