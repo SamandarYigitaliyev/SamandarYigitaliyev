@@ -1,4 +1,4 @@
-### Hi there, I am Samandarbek Yigitaliyev 👋
+### Hi there, I am Samandarbek Yigitaliyev <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 #### I'm a Software Engineer.
 
