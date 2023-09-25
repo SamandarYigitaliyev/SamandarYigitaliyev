@@ -16,4 +16,4 @@
 ## ⚡ Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=samandaryigitaliyev&show_icons=true&theme=gotham" alt="samandaryigitaliyev"/>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-samandaryigitaliyev"><img src="https://github-samandaryigitaliyev.vercel.app/?username=samandaryigitaliyev&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="samandaryigitaliyev"/></a> </p>
+<p align="center"> <a href="https://github.com/SamandarYigitaliyev"></a> </p>
